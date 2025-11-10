@@ -1,8 +1,11 @@
-
-# AIR_DS Airline Project
+# WEB_SIAFAKAS_CHRISTOS_E22145
 
 📦 **Download the ZIP file:**  
-[⬇️ Click here to download AIR_DS.zip](./AIR_DS.zip)
+[⬇️ Click here to download WEB_SIAFAKAS_CHRISTOS_E22145.zip](./WEB_SIAFAKAS_CHRISTOS_E22145.zip)
 
 ---
-**Author:** Christos Siafakas
+
+This repository contains my project files for the "AIR_DS" / "Web Development" assignment.  
+You can download and extract the ZIP file to view or test the website locally.
+
+**Author:** Ch
